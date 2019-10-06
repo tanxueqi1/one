@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/day01_01mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/day01_02mybatis_annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/day01_03mybatis_dao/pom.xml" />
+        <option value="$PROJECT_DIR$/day01_04mybatis_design/pom.xml" />
+        <option value="$PROJECT_DIR$/day02_01mybatisCRUD/pom.xml" />
+        <option value="$PROJECT_DIR$/day02_02mybatisDAO/pom.xml" />
+        <option value="$PROJECT_DIR$/day03_01datasourceAndTx/pom.xml" />
+        <option value="$PROJECT_DIR$/day03_02dynamicSQL/pom.xml" />
+        <option value="$PROJECT_DIR$/day03_03one2many/pom.xml" />
+        <option value="$PROJECT_DIR$/day03_04many2many/pom.xml" />
+        <option value="$PROJECT_DIR$/day04_01lazy/pom.xml" />
+        <option value="$PROJECT_DIR$/day04_02cache/pom.xml" />
+        <option value="$PROJECT_DIR$/day04_03annotation_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/day04_04annoone2many/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

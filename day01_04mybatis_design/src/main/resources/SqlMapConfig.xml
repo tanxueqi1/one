@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <!--配置环境-->
+    <environments default="mysql">
+        <environment id="mysql">
+            <transactionManager type="JDBC"/> <!--事务的类型-->
+            <dataSource type="POOLED">  <!--配置数据源(连接池) 用不用连接池,不用就UNPOOLED-->
+                <property name="driver" value="com.mysql.jdbc.Driver"/>
+                <property name="url" value="jdbc:mysql://localhost:3306/mybatis"/>
+                <property name="username" value="root"/>
+                <property name="password" value="123456"/>
+            </dataSource>
+        </environment>
+    </environments>
+    <!--引入映射配置文件-->
+    <mappers>
+        <!--<mapper resource="com/itheima/dao/IUserDao.xml"></mapper>-->
+        <!--如果用的是注解,则用class属性,dao的全类型-->
+        <mapper class="com.itheima.dao.IUserDao"/>
+        <!--<package name="cn.itcast.dao"/>-->
+    </mappers>
+
+</configuration>

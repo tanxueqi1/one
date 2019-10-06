@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/day01_01mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day01_02mybatis_annotation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day01_03mybatis_dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day01_04mybatis_design" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day02_01mybatisCRUD" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day02_02mybatisDAO" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day03_01datasourceAndTx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day03_02dynamicSQL" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day03_03one2many" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day03_04many2many" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day04_01lazy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day04_02cache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day04_03annotation_mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day04_04annoone2many" charset="UTF-8" />
+  </component>
+</project>
